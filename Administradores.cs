@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class Administrador : Persona
+class Administrador 
 {
 	private int id_Admin;
 	private string nomb_Admin;
