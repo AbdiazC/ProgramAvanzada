@@ -1,0 +1,5 @@
+C:\Users\acond\OneDrive\Documents\GitHub\ProgramAvanzada\obj\Debug\net6.0\ProgramAvanzada.csproj.AssemblyReference.cache
+C:\Users\acond\OneDrive\Documents\GitHub\ProgramAvanzada\obj\Debug\net6.0\ProgramAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acond\OneDrive\Documents\GitHub\ProgramAvanzada\obj\Debug\net6.0\ProgramAvanzada.AssemblyInfoInputs.cache
+C:\Users\acond\OneDrive\Documents\GitHub\ProgramAvanzada\obj\Debug\net6.0\ProgramAvanzada.AssemblyInfo.cs
+C:\Users\acond\OneDrive\Documents\GitHub\ProgramAvanzada\obj\Debug\net6.0\ProgramAvanzada.csproj.CoreCompileInputs.cache
