@@ -22,6 +22,9 @@ class Persona
     //{  
     //return 10;  
     //}  
+    public void imprimirMensajePerso(){
+        Console.WriteLine("Hola soy Persona");
+    }
 }
 
 public class Program

@@ -21,11 +21,14 @@ class Administrador : Persona
     //{  
     //return 10;  
     //}  
+    public void imprimirMensajeAdmin(){
+        Console.WriteLine("Hola soy Admin");
+    }
 }
 public class Program
 {
 	public static void Main()
 	{
-        
+
     }
 }
